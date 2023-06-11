@@ -1,4 +1,5 @@
 # TODO: freeze me !
+pycapnp --install-option "--force-bundled-libcapnp"
 jupyterlab
 pandas
 osmx
