@@ -1,0 +1,12 @@
+# TODO: freeze me !
+jupyterlab
+pandas
+osmx
+geopandas
+geopy
+folium
+scipy
+matplotlib
+mapclassify
+scikit-learn
+plotly
